@@ -1,0 +1,15 @@
+This is a reference implementation of the Algorithm 
+described in : 
+
+Robust Pose from a Planar Target
+Gerald Schweighofer and Axel Pinz
+To be appear in:
+IEEE Transactions on Pattern Analysis and Machine Intelligence
+Vol. 28, No. 12, Dezember 2006
+
+
+rpp.m returns the Pose for a one view model/image point configuration
+
+HINT: 
+1. start matlab
+2. call rpp 
